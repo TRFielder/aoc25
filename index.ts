@@ -4,4 +4,4 @@ console.log("Advent of code solutions")
 
 console.log("====== Day 1 ======")
 
-console.log("Part 1:", part1(""))
+console.log("Part 1:", part1("./day1/input.txt"))
